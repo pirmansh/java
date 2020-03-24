@@ -35,19 +35,19 @@ public class AplikasiDataMahasiswa extends javax.swing.JFrame {
     listdata = new ArrayList<>();
   
    Mahasiswa mahasiswa = new Mahasiswa(
-            "43A87006180144","Pirmansyah","Teknik Informatika",
+            "87382637263737","Pirmansyah","Teknik Informatika",
             "Bekasi","pirman@gmail.com","08953787767");
     listdata.add(mahasiswa);
     mahasiswa = new Mahasiswa(
-            "43A87006180188","Pirman","Teknik Informatika",
+            "87382637263737","Pirman","Teknik Informatika",
             "Bandung","pirman@gmail.com","08953787767");
     listdata.add(mahasiswa);
     mahasiswa = new Mahasiswa(
-            "43A87006180195","syah","Teknik Informatika",
+            "87382637263737","syah","Teknik Informatika",
             "Garut","pirman@gmail.com","08953787767");
     listdata.add(mahasiswa);
     mahasiswa = new Mahasiswa(
-            "43A87006180190","Pirmansh","Teknik Informatika",
+            "87382637263737","Pirmansh","Teknik Informatika",
             "Bogor","pirman@gmail.com","08953787767");
     listdata.add(mahasiswa);
     
